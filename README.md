@@ -1,2 +1,3 @@
 # my-first-repo
-Learning GitHub with DevOps.
+My name is Shajidha'
+I'm pursuing Final BSC computer Science in Aditya Womens degree college.
